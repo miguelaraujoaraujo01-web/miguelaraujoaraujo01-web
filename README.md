@@ -1,4 +1,4 @@
-# E aí! 👋 Meu nome é Miguel Araujo.
+# Hello World! 👋 Meu nome é Miguel Araujo.
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** |
 💻 Desenvolvedor em formação |
