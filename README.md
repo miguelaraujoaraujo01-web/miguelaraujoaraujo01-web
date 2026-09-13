@@ -19,7 +19,7 @@
 
 ---
 
-## 🧑‍💻 Sobre mim
+## 👨🏽‍💻 Sobre mim
 
 Meu nome é Miguel Araújo e sou estudante de **Análise e Desenvolvimento de Sistemas**. 
 
