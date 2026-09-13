@@ -1,11 +1,11 @@
 # Hello World! 👋
 
-*👨🏽‍💻 Me chamo Miguel Araújo 
-*🎓 Cursando **Análise e Desenvolvimento de Sistemas** 
-*💻 Desenvolvedor Full-Stack em formação 
-*📍 São Paulo (SP), Brasil 
+* 👨🏽‍💻 Me chamo Miguel Araújo 
+* 🎓 Cursando **Análise e Desenvolvimento de Sistemas** 
+* 💻 Desenvolvedor Full-Stack em formação 
+* 📍 São Paulo (SP), Brasil 
 
-Atualmente, construo minha base em desenvolvimento de software, com foco em **Python, JavaScript, SQL e desenvolvimento web**.
+Atualmente, construo minha base em desenvolvimento de software, com ênfase em **Python, JavaScript, SQL e desenvolvimento web**.
 
 Perfomo meu aprendizado na prática e transformando o que estudo em pequenos projetos e soluções práticas.
 
@@ -35,8 +35,9 @@ Aqui você encontrará projetos desenvolvidos durante minha formação, estudos 
 
 ## 📫 Contato
 
-* 💼 www.linkedin.com/in/miguelaraujodev
+* 💼 LinkedIn: www.linkedin.com/in/miguelaraujodev
 * 📧 E-mail: miguelaraujoaraujo01@gmail.com
+* 📞 Telefone: (11) 99593-1635
 
 ---
 
