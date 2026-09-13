@@ -1,8 +1,9 @@
-# Hello World! 👋 Meu nome é Miguel Araujo.
+# Hello World! 👋
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** |
-💻 Desenvolvedor em formação |
-📍 São Paulo, Brasil 
+*👨🏽‍💻 Me chamo Miguel Araújo 
+*🎓 Cursando **Análise e Desenvolvimento de Sistemas** 
+*💻 Desenvolvedor Full-Stack em formação 
+*📍 São Paulo (SP), Brasil 
 
 Atualmente, construo minha base em desenvolvimento de software, com foco em **Python, JavaScript, SQL e desenvolvimento web**.
 
